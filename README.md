@@ -4,7 +4,7 @@ Software Development & Applications student at ISCTE Sintra. I enjoy building pr
 
 ## Technologies & Tools
 
-**Languages:** JavaScript, Python, Java, HTML, CSS  
+**Languages:** JavaScript, Python, Java, HTML, CSS ,SQL  
 **Frontend:** React.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB  
