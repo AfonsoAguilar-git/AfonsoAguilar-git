@@ -8,7 +8,7 @@ Software Development & Applications student at ISCTE Sintra. I enjoy building pr
 **Frontend:** React.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB  
-**Other:** Git, REST APIs, FastAPI, Docker, OOP
+**Other:** Git, REST APIs, OOP
 
 ## Projects
 
