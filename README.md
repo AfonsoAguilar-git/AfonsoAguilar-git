@@ -12,9 +12,9 @@ Software Development & Applications student at ISCTE Sintra. I enjoy building pr
 
 ## Projects
 
-- **Expense Tracker** — Full stack web app for tracking daily expenses with CRUD operations, filtering, and a clean UI
+- **Electronic Voting System** — Full stack web app for managing polls with CRUD operations, filtering, and a clean UI
 - **Task Manager** — Python desktop app with a PyQt5 interface for task management
-- **Voxel Game** — Java OOP project built with jMonkeyEngine, inspired by Minecraft's voxel-based world
+- **Voxel Gam** — Java OOP project built with jMonkeyEngine, inspired by Minecraft's voxel-based world
 
 ## Currently Learning
 
