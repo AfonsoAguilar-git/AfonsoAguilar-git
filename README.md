@@ -5,7 +5,7 @@ Software Development & Applications student at ISCTE Sintra. I enjoy building pr
 ## Technologies & Tools
 
 **Languages:** JavaScript, Python, Java, HTML, CSS ,SQL  
-**Frontend:** React.js, Tailwind CSS  
+**Frontend:** React.js, Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB  
 **Other:** Git, REST APIs, OOP
@@ -14,7 +14,7 @@ Software Development & Applications student at ISCTE Sintra. I enjoy building pr
 
 - **Electronic Voting System** — Full stack web app for managing polls with CRUD operations, filtering, and a clean UI
 - **Task Manager** — Python desktop app with a PyQt5 interface for task management
-- **Voxel Gam** — Java OOP project built with jMonkeyEngine, inspired by Minecraft's voxel-based world
+- **Voxel Game** — Java OOP project built with jMonkeyEngine, inspired by Minecraft's voxel-based world
 
 ## Currently Learning
 
